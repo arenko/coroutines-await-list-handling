@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PersonList</string>
+    <string name="no_result">Sonuç bulunamadı</string>
+    <string name="renew">Yenile</string>
+</resources>
